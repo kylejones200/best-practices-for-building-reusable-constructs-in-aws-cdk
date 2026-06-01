@@ -11,14 +11,7 @@ Pre-configure secure defaults: When building reusable constructs, it's essential
 
 Use managed services: Whenever possible, rely on AWS-managed services and features. For example, you can use AWS-managed encryption for S3 buckets and RDS instances or AWS Backup to manage data retention policies.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
